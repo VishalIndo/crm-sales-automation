@@ -28,9 +28,9 @@ The VBA app supports:
 
 Here are some screenshots of the CRM dashboard:
 
-![CRM Dashboard - Overview](images/dashboard-overview.png)
+![CRM Dashboard - Overview](images/13.png)
 
-![CRM Dashboard - Metrics](images/dashboard-metrics.png)
+![CRM Dashboard - Metrics](images/12.png)
 
 ## Setup
 
