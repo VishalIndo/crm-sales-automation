@@ -24,6 +24,14 @@ The VBA app supports:
 - dashboard metrics
 - simple home screen buttons
 
+## Dashboard Preview
+
+Here are some screenshots of the CRM dashboard:
+
+![CRM Dashboard - Overview](images/dashboard-overview.png)
+
+![CRM Dashboard - Metrics](images/dashboard-metrics.png)
+
 ## Setup
 
 1. Create a new Excel macro-enabled workbook: `.xlsm`
