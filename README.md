@@ -67,8 +67,4 @@ python main.py manifest
 - `RefreshDashboard`
 - `ShowTodayFollowUps`
 
-## Notes
 
-- `Auto_Open` is implemented in a standard module so follow-up reminders run when the workbook opens.
-- The first version uses prompt-driven data entry instead of binary `UserForm` artifacts. That keeps the source importable from plain text and easy to maintain in Git.
-- The next sensible step is a second pass that replaces prompt-driven entry with real `UserForms`.
